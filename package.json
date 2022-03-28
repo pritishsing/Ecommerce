@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "\"this is an ecommerce app\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritishsing/Ecommerce.git"
+  },
+  "keywords": [
+    "\"ecommerce\"",
+    "\"products\"",
+    "\"users\""
+  ],
+  "author": "\"pritish\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pritishsing/Ecommerce/issues"
+  },
+  "homepage": "https://github.com/pritishsing/Ecommerce#readme"
+}
